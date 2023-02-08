@@ -59,4 +59,6 @@ Main|<img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&log
 * 📓 Get knowledge on [Stepik](https://stepik.org/), [Real Python](https://realpython.com/), [Very Academy](https://www.youtube.com/channel/UC1mxuk7tuQT2D0qTMgKji3w), [Yandex Academy](https://www.youtube.com/c/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0/about) besides books and docs.
 * 🏊‍♂️ Really love swimming.
 * 📚 Books have impacted me: "Trilogy of Desire" (T.D.), "Sapiens: A Brief History of Humankind" (Y.N.H.), "The Power of Now" (E.T.)
-<!-- thx for some guide https://github.com/welel -->
+<!-- thx for some guide https://github.com/welel 
+  and this https://habr.com/ru/post/649363/
+-->
