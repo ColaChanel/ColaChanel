@@ -101,7 +101,8 @@ Main|<img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&log
 
 ## 💡 Current Project
 
-<br><p>Still waiting me</p>
+<br><p>[Neural Networks](https://github.com/ColaChanel/Neural-Networks),</p>
+This is a project to prepare materials for teaching my NN students
 
 <br>
 
