@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h2 align="center">
   Hi <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36"/>, I'm Igor
 </h2>
-<a href="https://github.com/ColaChanel/ColaChanel/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-blue"/></a>
+<!-- <a href="https://github.com/ColaChanel/ColaChanel/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-blue"/></a> -->
 
 <h3 align="center">A curious ML developer based in Moscow</h3>
 
