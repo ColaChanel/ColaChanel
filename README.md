@@ -66,11 +66,11 @@ This is a project to prepare materials for teaching my NN students
 <br>
 <details>
   <summary><h2>😎 Some Things About Me</h2></summary>
-* 📱 Believe that spending less time on social networks can make us happier.
-* 🚀 Exist somewhere on [Stepik](https://stepik.org/users/81053163).
-* 📓 Get knowledge on [Stepik](https://stepik.org/), [Real Python](https://realpython.com/), [Medium](https://medium.com/), [Yandex Academy](https://www.youtube.com/c/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0/about) besides books and docs.
-* 🏊‍♂️ Really love swimming.
-* 📚 Books have impacted me: "Trilogy of Desire" (T.D.), "Sapiens: A Brief History of Humankind" (Y.N.H.), "The Power of Now" (E.T.)
+  <p> * 📱 Believe that spending less time on social networks can make us happier. </p>
+  <p> * 🚀 Exist somewhere on <a href ="https://stepik.org/users/81053163">Stepik</a></p>
+  <p> * 📓 Get knowledge on <a href="https://stepik.org/">Stepik</a>, <a href="https://realpython.com/">Real Python</a>, <a href="https://medium.com/">Medium</a>, <a href="https://academy.yandex.ru/">Yandex Academy</a> besides books and docs.</p>
+  <p>* 🏊‍♂️ Really love swimming.</p>
+  <p>* 📚 Books have impacted me: "Trilogy of Desire" (T.D.), "Sapiens: A Brief History of Humankind" (Y.N.H.), "The Power of Now" (E.T.)</p>
 </details>
   <br>
 <details>
