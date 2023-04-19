@@ -9,8 +9,8 @@
 
 - 🔭 &nbsp; I’m currently looking for new work opportunities 🔍
 - 🌱 &nbsp; I’m currently learning more information about ML and DL; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ColaChanel?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ColaChanel?tab=repositories) 
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help; 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/igorkonovalovvasko/) and [Telegram](https://t.me/ColaChannel)
 <!-- - 📝 &nbsp; Checkout my [resume](...) -->
 
