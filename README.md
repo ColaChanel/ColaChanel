@@ -1,17 +1,3 @@
-<!--
-**ColaChanel/ColaChanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="center">
   Hi <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36"/>, I'm Igor
 </h2>
@@ -19,16 +5,24 @@ Here are some ideas to get you started:
 
 <h3 align="center">A curious ML developer based in Moscow</h3>
 
-I'm a passionate developer with a **higher education in computer science**. I'm currently **seeking challenging career opportunities**. I have a strong mastery of **Python, Yolov5** and mostly work in a **Windows11** environment. Proficient in creating visually appealing and user-friendly frontend using **HTML, CSS, JavaScript**.
+### 🧐 More About Me:
 
-For a detailed overview of my coding skills and abilities, please visit my current project - [Intensive-V2](http://45.8.229.201/), [on GitHub](https://github.com/ColaChanel/IntensiveV2). This project showcases my technical expertise and attention to detail, and will give you a clear understanding of the quality of work I am capable of delivering.
+- 🔭 &nbsp; I’m currently looking for new work opportunities
+- 🌱 &nbsp; I’m currently learning more information about ML and DL; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ColaChanel?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/igorkonovalovvasko/)
+<!-- - 📝 &nbsp; Checkout my [resume](...) -->
 
+<br>
 
+<!-- 
 <h4 align="center">🔍 looking for a job &nbsp; | &nbsp; 🌱 building</a> &nbsp; | &nbsp; 💬 contact me <a href="mailto:igor.konovalov.dev@gmail.com/" ><img src="https://img.shields.io/badge/-gmail-informational?style=flat&logo=gmail" alt="gmail"/></a></h4>
 
 👔 **Hire me**: If you are looking for a hardworking and dedicated developer, please do not hesitate to reach out to me for an interview or to discuss a test task.
 
-:envelope: **Contacts**: Telegram [@ColaChannel](https://t.me/ColaChannel) | igor.konovalov.dev@gmail.com.
+:envelope: **Contacts**: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ColaChannel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi) | igor.konovalov.dev@gmail.com. -->
 
 <!-- ---
 <details>
@@ -65,6 +59,11 @@ This is a project to prepare materials for teaching my NN students
 </details>
 <br>
 <details>
+  <summary><h2>🛠️ Languages & Tools</h2></summary>
+  <p align="left"><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</details>
+  <br>
+<details>
   <summary><h2>😎 Some Things About Me</h2></summary>
   <p> * 📱 Believe that spending less time on social networks can make us happier. </p>
   <p> * 🚀 Exist somewhere on <a href ="https://stepik.org/users/81053163">Stepik</a></p>
@@ -91,12 +90,28 @@ This is a project to prepare materials for teaching my NN students
     <p><a href="https://github.com/ColaChanel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/igorkonovalovvasko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@colachanel" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
     </p>
 </details>
+<br>  
+<details>
+  <summary><h2>⚙️ Things I use to get stuff done</h2></summary>
+  <ul>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> Asus Rog Strix G17</li>
+  	    <li><b>Browser: </b> Yandex and microsoft edge</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Telegram, Medium, Linkedin.</li>
+	</ul>
+</details>
+  <br>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
+  <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+ </p>
+  
+<div algin="right">
 
+### Show some ❤️ for my profile and repositories, by starring and following them!
+  
+</div>
 <!-- ![](https://komarev.com/ghpvc/?username=ColaChanel) -->
 <!-- thx for some guide https://habr.com/ru/post/649363/
 -->
