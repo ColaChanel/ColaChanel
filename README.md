@@ -150,6 +150,7 @@ This is a project to prepare materials for teaching my NN students
 
 ### Show some ❤️ for my profile and repositories, by starring and following them!
   
+<a href="https://www.buymeacoffee.com/colachanel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
 <!-- ![](https://komarev.com/ghpvc/?username=ColaChanel) -->
 <!-- thx for some guide https://habr.com/ru/post/649363/
