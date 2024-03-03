@@ -18,8 +18,11 @@
 <details>
   <summary><h2>💡 Current Project</h2></summary>
 
-<br><h3>[Neural Networks](https://github.com/ColaChanel/Neural-Networks),</h3>
-This is a project to prepare materials for teaching my NN students
+<br><h3>[email-sorting](https://github.com/ColaChanel/email-cluster),</h3>
+This is a project to create smart model which sorts letters, and do task with each email, mini automatization)
+
+<!-- <br><h3>[Neural Networks](https://github.com/ColaChanel/Neural-Networks),</h3>
+This is a project to prepare materials for teaching my NN students-->
 </details>
 <br>
 <details>
