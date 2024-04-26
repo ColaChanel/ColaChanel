@@ -157,4 +157,6 @@ This is a project to prepare materials for teaching my NN students-->
 </div>
 <!-- ![](https://komarev.com/ghpvc/?username=ColaChanel) -->
 <!-- thx for some guide https://habr.com/ru/post/649363/
+https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+https://medium.com/@bap_16778/7-tips-to-build-your-github-profile-like-a-pro-41efdbed882d- to update data
 -->
