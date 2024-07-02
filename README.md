@@ -121,7 +121,7 @@ This is a project to prepare materials for teaching my NN students-->
   <p> * 🚀 Exist somewhere on <a href ="https://stepik.org/users/81053163">Stepik</a></p>
   <p> * 📓 Get knowledge on <a href="https://stepik.org/">Stepik</a>, <a href="https://realpython.com/">Real Python</a>, <a href="https://medium.com/">Medium</a>, <a href="https://academy.yandex.ru/">Yandex Academy</a> besides books and docs.</p>
   <p>* 🏊‍♂️ Really love swimming.</p>
-  <p>* 📚 Books have impacted me: "Trilogy of Desire" (T.D.), "Sapiens: A Brief History of Humankind" (Y.N.H.), "The Power of Now" (E.T.)</p>
+<!--   <p>* 📚 Books have impacted me: "Trilogy of Desire" (T.D.), "Sapiens: A Brief History of Humankind" (Y.N.H.), "The Power of Now" (E.T.)</p> -->
 </details>
   <br>
 <details>
