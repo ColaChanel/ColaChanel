@@ -11,7 +11,7 @@
 - 👨🏻‍💻 &nbsp; Большинство моих проектов доступны на [Github](https://github.com/ColaChanel?tab=repositories) 
 - 💬 &nbsp; Спрашивайте меня обо всем, что связано с технологиями, я буду рад помочь; 
 - 📫 &nbsp; Не стесняйтесь, пишите мне на [LinkedIn](https://www.linkedin.com/in/igorkonovalovvasko/) и в [Telegram](https://t.me/ColaChannel)
-<!-- - 📝 &nbsp; Посмотрите на сайт [обо мне](https://colachanel.streamlit.app/) -->
+- 📝 &nbsp; Посмотрите на сайт [обо мне](https://colachanel.streamlit.app/) 
 
 <br>
 <!-- <details>
