@@ -14,6 +14,7 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/igorkonovalovvasko/) and [Telegram](https://t.me/ColaChannel)
 - 📝 &nbsp; Checkout about me [site_about](https://colachanel.streamlit.app/?lang=0&option=0)
  <!-- GitHub pages add here-->
+              
 
 <br>
 <!-- <details>
@@ -165,9 +166,7 @@ This is a project to prepare materials for teaching my NN students-->
   
 <div algin="right">
 
-### Show some ❤️ for my profile and repositories, by starring and following them!
-  
-<a href="https://www.buymeacoffee.com/colachanel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+### Show some ❤️ for my profile and repositories, by starring and following them! &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; <a href="https://www.buymeacoffee.com/colachanel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
 <!-- ![](https://komarev.com/ghpvc/?username=ColaChanel) -->
 <!-- thx for some guide https://habr.com/ru/post/649363/
