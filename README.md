@@ -12,7 +12,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ColaChanel?tab=repositories) 
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help; 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/igorkonovalovvasko/) and [Telegram](https://t.me/ColaChannel)
-- 📝 &nbsp; Checkout about me [site_about](https://colachanel.streamlit.app/?lang=0&option=0)
+- 📝 &nbsp; Checkout about me [site_about](cola-dev.ru)
 
 ## 🗂️ Highlight Projects
 
