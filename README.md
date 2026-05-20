@@ -19,10 +19,10 @@
 Last open github activity
 
 <a href="https://github.com/ColaChanel/Intensive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ColaChanel&repo=Intensive&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Intensive" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ColaChanel&repo=Intensive&theme=graywhite" />
 </a>
 <a href="https://github.com/ColaChanel/classification_food">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ColaChanel&repo=classification_food&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="classification_food" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ColaChanel&repo=classification_food&theme=graywhite" />
 </a>
 
               
@@ -180,4 +180,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://medium.com/@bap_16778/7-tips-to-build-your-github-profile-like-a-pro-41efdbed882d- to update data
 https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file#github-extra-pins = examples of specific cards
 https://github.com/DenverCoder1/readme-typing-svg = typing svg
+https://github.com/DenverCoder1
+https://github.com/creativepurus
+https://github.com/Ad7amstein
 -->
