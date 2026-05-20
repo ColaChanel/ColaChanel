@@ -15,9 +15,6 @@
 - 📝 &nbsp; Checkout about me [cola-dev.ru](https://cola-dev.ru/pages/about.html)
 
 ## 🗂️ Highlight Projects
-
-Last open github activity
-
 <a href="https://github.com/ColaChanel/Intensive">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ColaChanel&repo=Intensive&theme=graywhite" />
 </a>
